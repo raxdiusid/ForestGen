@@ -1,3 +1,5 @@
+-- Discord: raxdiusid | Roblox: raxdiusid
+
 --!strict
 --!optimize 2
 
